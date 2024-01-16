@@ -27,9 +27,25 @@ Please note that scanning private keys is a sensitive operation. Please follow t
    b. Use at your own risk: Use of this product is at the user's own risk. We are not responsible for any damages resulting from the use of this product.
    c. Security Awareness: Please ensure the security of your account, including changing your password regularly to prevent leakage.
 
-5. technical support:
-We provide technical support to address questions and concerns you may have about your use of the Product. Please contact our technical team via our official website or customer support email.
+Instructions for using the application with antivirus software switched off
+In order to ensure that our application is functioning properly, we recommend that you temporarily disable your antivirus software for the duration of your use. Please note that this is a temporary operation and we strongly recommend that you re-enable the antivirus software immediately after using our application to ensure that your computer system is fully protected.
 
+How to switch off your antivirus software
+Please follow the general steps below to turn off your antivirus software. Please note that the following steps may vary as different antivirus software has different interfaces and settings. Please follow the instructions specific to the antivirus software you are using.
+
+Locate the system tray icon of your antivirus software (usually located in the lower right corner of the taskbar).
+Right-click on the icon to open your antivirus software's main control screen.
+In the main control screen, look for or navigate to "Real-time protection", "Antivirus protection" or a similar option.
+Within this option, you may see a button to "Close", "Disable" or similar. Click this button to temporarily disable your antivirus.
+Why you need to turn off your antivirus software
+Some applications may require special operations to be performed on your computer, and antivirus software may interfere with these operations. By temporarily disabling the antivirus software, we can ensure that the application can perform the required tasks properly.
+
+Safety Precautions
+Turning off the antivirus software may expose the computer to some potential security risks. Therefore, please ensure that you re-enable your antivirus software immediately after using our application to maximise the protection of your system from potential threats.
+
+If you have any problems disabling your antivirus or using our application, please feel free to contact our technical support team for assistance.
+
+Thank you for your understanding and co-operation!
 Thank you for using our Bitcoin and Ether private key scanning pool. We are committed to providing efficient and secure services, and are constantly improving and upgrading our product features to meet user needs. If you have any suggestions or comments, please feel free to contact us.
 
 We wish you success in using our scanning pool!
