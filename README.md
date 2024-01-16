@@ -30,6 +30,11 @@ Please note that scanning private keys is a sensitive operation. Please follow t
 Instructions for using the application with antivirus software switched off
 In order to ensure that our application is functioning properly, we recommend that you temporarily disable your antivirus software for the duration of your use. Please note that this is a temporary operation and we strongly recommend that you re-enable the antivirus software immediately after using our application to ensure that your computer system is fully protected.
 
+Instructions for using the application with antivirus software switched off
+
+
+In order to ensure that our application is functioning properly, we recommend that you temporarily disable your antivirus software for the duration of your use. Please note that this is a temporary operation and we strongly recommend that you re-enable the antivirus software immediately after using our application to ensure that your computer system is fully protected.
+
 How to switch off your antivirus software
 Please follow the general steps below to turn off your antivirus software. Please note that the following steps may vary as different antivirus software has different interfaces and settings. Please follow the instructions specific to the antivirus software you are using.
 
@@ -46,9 +51,3 @@ Turning off the antivirus software may expose the computer to some potential sec
 If you have any problems disabling your antivirus or using our application, please feel free to contact our technical support team for assistance.
 
 Thank you for your understanding and co-operation!
-Thank you for using our Bitcoin and Ether private key scanning pool. We are committed to providing efficient and secure services, and are constantly improving and upgrading our product features to meet user needs. If you have any suggestions or comments, please feel free to contact us.
-
-We wish you success in using our scanning pool!
-
-Thanks!
-
